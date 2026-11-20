@@ -21,6 +21,10 @@ We publish the data behind our studies under [CC BY 4.0](https://creativecommons
 
 Credit crida studio and link to the study page when you reuse them.
 
+## Founder
+
+crida studio was founded by David Monje ([LinkedIn](https://www.linkedin.com/in/davidmonje/), [ORCID](https://orcid.org/0009-0007-2275-4881)). His personal AI training includes 14 verifiable OpenAI PartnerU badges, from consulting to ChatGPT, API, Codex and cybersecurity deployment. Each one links to its public verification on his [author page](https://www.crida.studio/en/insights/author/david-monje/#ai-training).
+
 ## Elsewhere
 
-[Wikidata](https://www.wikidata.org/wiki/Q142171377) · [LinkedIn](https://www.linkedin.com/company/cridastudio) · [YouTube](https://www.youtube.com/@Cridastudio)
+[LinkedIn](https://www.linkedin.com/company/cridastudio) · [YouTube](https://www.youtube.com/@Cridastudio)
